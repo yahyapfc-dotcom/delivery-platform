@@ -6,6 +6,7 @@ This project is a scalable SaaS-style platform designed to assist delivery compa
 
 - **Multi-Tenancy:** The platform supports multi-tenancy to ensure data segregation and security between different delivery companies. Each company has its own dedicated space within the platform.
 
+
 - **User Management:**
     - Users can log in, access the system, and create orders for clients.
     - Agents have the ability to create orders for delivery to their client's addresses.
